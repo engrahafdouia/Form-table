@@ -17,7 +17,7 @@ background-size:cover ;
     
 }
 .heading-card{
-    background: url(green.jpg) top left/cover no-repeat;
+    background: url('green.jpg') top left/cover no-repeat;
     display: table-cell;
     width: 50%;
 }
